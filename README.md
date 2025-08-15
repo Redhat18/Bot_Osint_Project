@@ -22,7 +22,7 @@ Bot automatizado que:
 ## Instalación
 ```bash
 git clone https://github.com/Redhat18/Bot_Osint_Project.git
-cd Bot_Osint_Project
+cd Bot_Osint_Project-main
 pip install -r requirements.txt
 
 ## Configuración
